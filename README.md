@@ -38,15 +38,15 @@ Acesse a CLI do container principal
 docker compose exec app bash
 ```
 
-    Instale as dependências do projeto
-    ```sh
-    composer install
-    ```
-
-    Gere a chave do seu projeto
-    ```sh
-    php artisan key:generate
-    ```
+> Instale as dependências do projeto
+> ```sh
+> composer install
+> ```
+> 
+> Gere a chave do seu projeto
+> ```sh
+> php artisan key:generate
+> ```
 
 Acesse o projeto acessando o link abaixo em algum web browser<br>
 [http://localhost:1606](http://localhost:1606)
