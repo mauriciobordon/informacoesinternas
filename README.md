@@ -62,6 +62,11 @@ docker compose exec app bash
 > ```sh
 > php artisan key:generate
 > ```
+>
+> Adicione os usuários primários no banco de dados
+> ```sh
+> php artisan db:seed --class=UserSeeder
+> ```
 
 
 Acesse o projeto acessando o link abaixo em algum web browser<br>
