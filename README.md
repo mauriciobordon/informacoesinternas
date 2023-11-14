@@ -2,7 +2,7 @@
    > - Docker instalado e em execução na máquina destino;<br>
    > - Conexão com a internet (para baixar os arquivos);<br>
    > - Acesso a alguma linha de comando (CLI);<br>
-   > - Acesso a algum web browser;<br>
+   > - Acesso a algum web browser.<br>
 
 # Passo a passo
 Clone o repositório no diretório desejado da sua máquina através da CLI
