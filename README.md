@@ -7,7 +7,7 @@
 # Passo a passo
 Clone o repositório no diretório desejado da sua máquina através da CLI
 ```sh
-git clone https://github.com/pingueventos/webpage pingu-webpage
+git clone -b develop https://github.com/pingueventos/webpage pingu-webpage
 ```
 
 Acesse o diretório clonado através da CLI
@@ -26,6 +26,21 @@ Defina suas informações de login dentro do arquivo .env adicionando as informa
 DB_USERNAME=
 # Adicione a senha da sua base de dados
 DB_PASSWORD=
+```
+
+Confira os emails e defina suas senhas para as contas primárias em /database/seeders/UserSeeder.php adicionando as informações na linhas (entre o "('')")
+```sh
+            # Defina a senha do usuário administrativo
+                'password' => Hash::make(''),
+
+            # Defina a senha do usuário operacional
+                'password' => Hash::make(''),
+
+            # Defina a senha do usuário comercial
+                'password' => Hash::make(''),
+
+            # Defina a senha do usuário teste aniversariante
+                'password' => Hash::make(''),
 ```
 
 Suba os containers do projeto através da CLI
@@ -48,6 +63,6 @@ docker compose exec app bash
 > php artisan key:generate
 > ```
 
+
 Acesse o projeto acessando o link abaixo em algum web browser<br>
 [http://localhost:1606](http://localhost:1606)
-
