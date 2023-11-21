@@ -1,3 +1,7 @@
+## Links
+> Cronograma de planejamento: https://trello.com/invite/b/MHJiyhtr/ATTI91e10121dd47488b3b3416460a775f2353AE0309/trabalho-final-pi-buffet
+> Estudo de telhas: https://www.figma.com/file/sSpl7Zp4vJv1bp9duXJX9S/Proj.-Buffet?type=design&node-id=0-1&mode=design
+
 ## Requisitos para execução:
    > - Docker instalado e em execução na máquina destino;<br>
    > - Conexão com a internet (para baixar os arquivos);<br>
@@ -106,3 +110,6 @@ docker compose up -d
 
 Acesse o projeto acessando o link abaixo em algum web browser<br>
 [http://localhost:1606](http://localhost:1606)
+
+## Acesso a informações de tabelas
+Todas as tabelas podem ser consultadas em [Http://localhost:8888](Http://localhost:8888)
