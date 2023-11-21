@@ -1,5 +1,5 @@
 ## Links
-   > - Cronograma de planejamento: 
+   > - Cronograma de planejamento: https://trello.com/invite/b/MHJiyhtr/ATTI91e10121dd47488b3b3416460a775f2353AE0309/trabalho-final-pi-buffet <br>
    > - Estudo de telhas: https://www.figma.com/file/sSpl7Zp4vJv1bp9duXJX9S/Proj.-Buffet?type=design&node-id=0-1&mode=design
 
 ## Requisitos para execução:
