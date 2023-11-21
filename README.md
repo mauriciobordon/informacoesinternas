@@ -32,7 +32,7 @@ DB_USERNAME=
 DB_PASSWORD=
 ```
 
-Posicione as imagens dos pacotes bases através da CLI
+Posicione as imagens dos pacotes de comida iniciais através da CLI
 ```sh
 cp -r imagens storage/app/public
 ```
