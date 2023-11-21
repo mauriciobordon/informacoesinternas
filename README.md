@@ -112,5 +112,5 @@ Acesse o projeto acessando o link abaixo em algum web browser<br>
 [http://localhost:1606](http://localhost:1606)
 
 ## Acesso a informações de tabelas
-Todas as tabelas podem ser consultadas em [Http://localhost:8888](Http://localhost:8888) <br>
+Todas as tabelas podem ser consultadas em [http://localhost:8888](http://localhost:8888) <br>
 (Credenciais são as adicionadas no arquivo .env)
